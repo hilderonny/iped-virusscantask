@@ -1,0 +1,10 @@
+# Scanning for virusses
+# When enabled, each item gets extra properties:
+# "virusscan:status" - Result of the scanning. OK for no virus, FOUND for virus found
+# "virusscan:virus" - Identifier of the found virus
+
+# URL of the API of the forensic task bridge in the format http://127.0.0.1:30000/api/
+forensicTaskBridgeApiUrl = http://192.168.0.152:30000/api/
+
+# Directory where the task puts the audio files to process when a forensic task bridge server is used
+forensicTaskBridgeShareDirectory = X:/data/forensictaskbridge/input

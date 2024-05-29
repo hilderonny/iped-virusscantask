@@ -1,2 +1,3 @@
 # iped-virusscantask
-IPED task for virus scanning via shared workers
+
+[IPED](https://github.com/sepinf-inc/IPED) task for virus scanning via shared workers

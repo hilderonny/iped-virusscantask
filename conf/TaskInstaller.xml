@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tasks>
+
+    <!--Should be placed after iped.engine.task.ParsingTask -->
+    <task script="VirusScanningTask.py"></task>
+
+</tasks>
