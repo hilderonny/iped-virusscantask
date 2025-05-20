@@ -1,9 +1,5 @@
 # iped-virusscantask
 
-[IPED](https://github.com/sepinf-inc/IPED) task for virus scanning via shared workers
-
-# iped-virusscantask
-
 [IPED](https://github.com/sepinf-inc/IPED) task for virus scanning via distributed workers. Uses [Task Bridge](https://github.com/hilderonny/taskbridge) together with [ScanForVirus](https://github.com/hilderonny/taskworker-scanforvirus) worker for distributing and doing the work.
 
 ## Output
